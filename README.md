@@ -182,14 +182,6 @@ More experiments, university projects, and prototypes will gradually find their 
 
 <div align="center">
 
-<a href="https://github.com/ahtuan171">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahtuan171&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=FF1F35&icon_color=FF1F35&text_color=F5F2E8&ring_color=A81222&include_all_commits=true" alt="Ah Tuan's GitHub stats">
-</a>
-
-<a href="https://github.com/ahtuan171">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtuan171&layout=compact&hide_border=true&bg_color=0B0D10&title_color=FF1F35&text_color=F5F2E8&langs_count=8" alt="Top languages">
-</a>
-
 </div>
 
 <br>
@@ -232,7 +224,10 @@ More experiments, university projects, and prototypes will gradually find their 
 
 When I'm not coding, you'll probably find me:
 
-`🏸 Playing badminton` · `📚 Reading books` · `🏋️ Going to the gym` · `🎬 Watching movies`
+· `🏸 Playing badminton`  
+· `📚 Reading books`  
+· `🏋️ Going to the gym`  
+· `🎬 Watching movies`
 
 ---
 
