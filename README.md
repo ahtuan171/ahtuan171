@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=1000&color=FF1F35&center=true&vCenter=true&width=700&repeat=false&lines=%2F%2F+With+great+power+comes+great+responsibility" alt="Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=FF1F35&center=true&vCenter=true&width=700&repeat=false&lines=WITH+GREAT+POWER+COMES+GREAT+RESPONSIBILITY" alt="Quote">
 </p>
 
 </div>
