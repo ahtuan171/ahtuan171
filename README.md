@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF1F35&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Analyst;Building+Web+Apps+%26+Automation+Workflows;Exploring+AI+Automation" alt="Typing SVG">
 </a>
 
+<p align="center" style="font-family: 'Fira Code', monospace; color: #FF1F35; font-size: 16px; font-weight: 600;">
+  With great power comes great responsibility
+</p>
+
 </div>
 
 <br>
@@ -63,7 +67,7 @@ idea → build → automate → analyze → improve
 ![Postman](https://img.shields.io/badge/Postman-0B0D10?style=flat-square\&logo=postman\&logoColor=FF1F35)
 ![Figma](https://img.shields.io/badge/Figma-0B0D10?style=flat-square\&logo=figma\&logoColor=FF1F35)
 ![Claude](https://img.shields.io/badge/Claude_Code-0B0D10?style=flat-square\&logo=anthropic\&logoColor=FF1F35)
-![Vercel](https://img.shields.io/badge/Vercel-0B0D10?style=flat-square\&logo=vercel\&logoColor=F5F2E8)
+![Vercel](https://img.shields.io/badge/Vercel-0B0D10?style=flat-square\&logo=vercel\&logoColor=FF1F35)
 ![Render](https://img.shields.io/badge/Render-0B0D10?style=flat-square\&logo=render\&logoColor=FF1F35)
 
 ---
