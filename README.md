@@ -8,8 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF1F35&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Analyst;Building+Web+Apps+%26+Automation+Workflows;Exploring+AI+Automation" alt="Typing SVG">
 </a>
 
-<p align="center" style="font-family: 'Fira Code', monospace; color: #FF1F35; font-size: 16px; font-weight: 600;">
-  With great power comes great responsibility
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=1000&color=FF1F35&center=true&vCenter=true&width=700&repeat=false&lines=%2F%2F+With+great+power+comes+great+responsibility" alt="Quote">
 </p>
 
 </div>
