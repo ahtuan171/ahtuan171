@@ -122,7 +122,7 @@ Interactive global map with destination pins.
 
 **Status**
 
-`PROTOTYPE`
+`RELEASED`
 
 <br>
 
@@ -179,24 +179,6 @@ More experiments, university projects, and prototypes will gradually find their 
 </td>
 </tr>
 </table>
-
----
-
-## <img src="assets/spidey-thinking.svg" width="24"> numbers
-
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/ahtuan171">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahtuan171&bg_color=0B0D10&color=F5F2E8&line=FF1F35&point=FF1F35&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
-</a>
-
-</div>
 
 ---
 
